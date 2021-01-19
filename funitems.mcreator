@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "FunItems",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fun_items"
+    },
+    {
+      "name": "KbStick",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kb_stick"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabfun_items": "Fun Items",
+      "item.funitems.kb_stick": "Kb Stick"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "funitems",
+    "modName": "FunItems",
+    "version": "1.0.0",
+    "author": "Raemex, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.funitems",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
